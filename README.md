@@ -15,3 +15,7 @@ This is a list of all the utility engineering tools I come across.
 ## Image Optimization
 
 1.  **[toWebP](https://towebp.io/)**: A tool to convert images to WebP format.
+
+## Cloud Computing
+
+1.  **[Subnet Calculator](https://www.subnet-calculator.com/)**: A tool for determining a CIDR range, useful when creating a VPC on AWS.
