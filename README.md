@@ -8,6 +8,10 @@ This is a list of all the utility engineering tools I come across.
 ## Component Library
 1. **[ARK-UI](https://ark-ui.com/)**: A headless component UI library for fully customizable UI components. Think in the direction of Carousel components, such.
 
+## Frontend
+
+1. **[WDYR](https://github.com/welldone-software/why-did-you-render)**: A React.Js library that helps in identifying unnecessary component re-renders and common source of performance issues in react apps.
+
 ## Monitoring & Analysis
 
 1.  **[Stack Crawler](https://stackcrawler.com/)**: A tool to check the technology stack used to build a web application.
@@ -25,3 +29,4 @@ This is a list of all the utility engineering tools I come across.
 ## Backend & DB
 
 1.  **[Neon Launchpad - Postgres](https://neon.tech/launchpad)**: Instantly spin up a free Postgres database for your projects using Neon Launchpad.
+2. **[Awesome Public APIs (GitHub Repo)](https://github.com/public-apis/public-apis)**: A comprehensive list of free and public APIs that are categorized for use by devs.
