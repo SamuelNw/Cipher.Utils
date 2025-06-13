@@ -17,7 +17,7 @@ This is a list of all the utility engineering tools I come across.
 1.  **[Stack Crawler](https://stackcrawler.com/)**: A tool to check the technology stack used to build a web application.
 2.  **[PageSpeed Insights](https://pagespeed.web.dev/)**: A tool by Google to analyze the content of a web page and generate suggestions to make that page faster.
 3.  **[DNS Checker](https://dnschecker.org/)**: A tool to check DNS propagation.
-4. **[Dependency Cruiser](https://www.npmjs.com/package/dependency-cruiser)**: Visualize and validate dependencies in your codebase (for JavaScript, ES6+, TypeScript), preventing circular imports, bloated bundles and architectural drifts.
+4. **[Dependency Cruiser](https://www.npmjs.com/package/dependency-cruiser)**: Creates graphs to visualize and validate dependencies in your codebase (for JavaScript, ES6+, TypeScript), preventing circular imports, bloated bundles and architectural drifts.
  
 ## Image Optimization
 
