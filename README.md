@@ -11,6 +11,7 @@ This is a list of all the utility engineering tools I come across.
 ## Frontend
 
 1. **[WDYR](https://github.com/welldone-software/why-did-you-render)**: A React.Js library that helps in identifying unnecessary component re-renders and common source of performance issues in react apps.
+2. **[Frontend Masters](https://frontendmasters.com/dashboard/)**: Professional platform to learn industry-level ways to use popular tools and frameworks for both beginners and pros.  
 
 ## DSA
 1. **[System Design School](https://systemdesignschool.io/)**: Platform to learn system design in a structured way.
