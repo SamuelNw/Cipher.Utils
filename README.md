@@ -12,6 +12,10 @@ This is a list of all the utility engineering tools I come across.
 
 1. **[WDYR](https://github.com/welldone-software/why-did-you-render)**: A React.Js library that helps in identifying unnecessary component re-renders and common source of performance issues in react apps.
 
+## DSA
+1. **[System Design School](https://systemdesignschool.io/)**: Platform to learn system design in a structured way.
+2. **[NeetCode.io](https://neetcode.io/practice)**: NeetCode's platform housing a curated collection of DSA challenges and solutions.
+ 
 ## Monitoring & Analysis
 
 1.  **[Stack Crawler](https://stackcrawler.com/)**: A tool to check the technology stack used to build a web application.
