@@ -2,11 +2,10 @@
 
 This is a list of all the utility engineering tools I come across.
 
-## Design
+## Design & Component Libraries
 
-1.  **[uicolors.app](https://uicolors.app/)**: A website for generating color codes for UI design.
-## Component Library
-1. **[ARK-UI](https://ark-ui.com/)**: A headless component UI library for fully customizable UI components. Think in the direction of Carousel components, such.
+1. **[uicolors.app](https://uicolors.app/)**: A website for generating color codes for UI design.
+2. **[ARK-UI](https://ark-ui.com/)**: A headless component UI library for fully customizable UI components. Think in the direction of Carousel components, such.
 
 ## Frontend
 
@@ -14,6 +13,7 @@ This is a list of all the utility engineering tools I come across.
 2. **[Frontend Masters](https://frontendmasters.com/dashboard/)**: Professional platform to learn industry-level ways to use popular tools and frameworks for both beginners and pros.  
 
 ## DSA
+
 1. **[System Design School](https://systemdesignschool.io/)**: Platform to learn system design in a structured way.
 2. **[NeetCode.io](https://neetcode.io/practice)**: NeetCode's platform housing a curated collection of DSA challenges and solutions.
  
@@ -36,3 +36,7 @@ This is a list of all the utility engineering tools I come across.
 
 1.  **[Neon Launchpad - Postgres](https://neon.tech/launchpad)**: Instantly spin up a free Postgres database for your projects using Neon Launchpad.
 2. **[Awesome Public APIs (GitHub Repo)](https://github.com/public-apis/public-apis)**: A comprehensive list of free and public APIs that are categorized for use by devs.
+
+## Others
+
+1. **[Microsoft Fabric](https://app.fabric.microsoft.com/)**: A unified analytics platform.
