@@ -34,7 +34,7 @@ This is a list of all the utility engineering tools I come across.
  
 ### Image Optimization
 
-1.  **[toWebP](https://towebp.io/)**: Free tools to convert images to WebP and AVIF formats.
+1.  **[Squoosh](https://squoosh.app/)**: Best free tool to convert images to WebP and AVIF formats.
 
 ---
 
