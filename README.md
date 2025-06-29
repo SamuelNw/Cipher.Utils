@@ -19,7 +19,7 @@ This is a list of all the utility engineering tools I come across.
 ### DSA
 
 1. **[System Design School](https://systemdesignschool.io/)**: Platform to learn system design in a structured way. (Encompasses common patterns and explanations to unlimited applications designs).
-2. **[NeetCode.io](https://neetcode.io/practice)**: NeetCode's platform housing a curated collection of DSA challenges and solutions.
+2. **[NeetCode.io](https://neetcode.io/practice)**: NeetCode's platform housing a curated collection of DSA challenges and solutions mostly in Python and other languages.
  
 ---
 
