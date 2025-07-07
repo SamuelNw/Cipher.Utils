@@ -51,6 +51,13 @@ This is a list of all the utility engineering tools I come across.
 
 ---
 
+### News and Blogs
+
+1. **[Daily.Dev](https://daily.dev/)**: The one place to get news and blogs about what is currently happening around the community. Fully customizable in terms of content shown, and available as an extension on your favorite browser.
+
+---
+
+
 ### Others
 
 1. **[Microsoft Fabric](https://app.fabric.microsoft.com/)**: A unified analytics platform. Very easy to build and train ML models and establish production ready pipelines.
