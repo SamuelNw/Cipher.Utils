@@ -61,3 +61,10 @@ This is a list of all the utility engineering tools I come across.
 ### Others
 
 1. **[Microsoft Fabric](https://app.fabric.microsoft.com/)**: A unified analytics platform. Very easy to build and train ML models and establish production ready pipelines.
+
+---
+
+
+### Tests
+1. **[Free IQ test](https://www.free-iqtest.net/)**: Gives free IQ tests, for quick results on completion.
+
