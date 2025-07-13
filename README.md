@@ -48,6 +48,8 @@ This is a list of all the utility engineering tools I come across.
 
 1.  **[Neon Launchpad - Postgres](https://neon.tech/launchpad)**: Instantly spin up a free Postgres database for your projects using Neon Launchpad.
 2. **[Awesome Public APIs (GitHub Repo)](https://github.com/public-apis/public-apis)**: A comprehensive list of free and public APIs that are categorized for use by devs.
+3. **[Supabase](https://supabase.com/)**: Most advanced open source BaaS (Backend as a Service). An open-source alternative to firebase, built on Postgres.
+
 
 ---
 
