@@ -70,3 +70,8 @@ This is a list of all the utility engineering tools I come across.
 ### Tests
 1. **[Free IQ test](https://www.free-iqtest.net/)**: Gives free IQ tests, for quick results on completion.
 
+---
+
+### CommandLine Tools
+1. **[Oh My Zsh](https://ohmyz.sh/)**: A framework for managing your Zsh configuration, offering themes, plugins, and command-line improvements.
+
